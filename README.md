@@ -189,7 +189,7 @@ Dokumen pendukung proyek dapat ditempatkan pada direktori `docs/`, meliputi:
 
 - **GitHub Repository:** [Buka Repository Proyek](https://github.com/linsky-wq/sistem-informasi-keuangan-kas-ai)
 - **Prototype Figma:** [Lihat Prototype UI/UX](https://www.figma.com/proto/i2HCgaFQ0DuMnBLhr2wiZ2/Prototype-UIUX---Sistem-Informasi-Manajemen-Keuangan-Kas-Berbasis-Web-dengan-Integrasi-AI?node-id=11-45&t=4UqqUwVrGb4oKTOh-1)
-
+- **Laporan PRD SRD DAN SDD:** .[Buka Laporan](https://drive.google.com/drive/folders/1kG9ryrs9JCW5CGIa4a66lcUS1V5K-v7k?usp=sharing))
 
 **Pengembang:** Kelompok 4  
 **Nama:** Linsky Molisa Ramandhani  
